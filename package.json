@@ -1,0 +1,21 @@
+{
+  "name": "@codebase-rocket/rnw-helper-timer",
+  "description": "Helper library for timer in React Native and web applications.",
+  "version": "1.0.0",
+  "private": false,
+  "main": "./timer",
+  "scripts": {},
+  "dependencies": {},
+  "author": {
+    "name": "Anand Kumar Singh"
+  },
+  "contributors": [
+    {
+      "name": "Shivanshu Jindal"
+    }
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "devDependencies": {}
+}
